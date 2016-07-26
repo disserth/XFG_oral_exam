@@ -1,0 +1,13 @@
+﻿Name of Quantlet: XFG_Copula_Gum_Clay
+
+Published in: Applied Quantitative Finance
+
+Description: Calcuation of dependencies between stock returns via Gumbel and Clayton copula 
+
+Keywords: Copula, risk measure, risk capital exposure
+
+Author: Thorsten Disser, Cathy Yi-Hsuan Chen
+
+Submitted:  2016/06/16
+
+Datafile: "Copula.xlsx"
